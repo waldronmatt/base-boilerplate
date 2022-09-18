@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "yarn lint:secrets && yarn lint:md && yarn lint:prettier",
     "lint:secrets": "npx secretlint **/*",
     "lint:md": "markdownlint --fix **/*.md --ignore node_modules --ignore **/CHANGELOG.md",
+    "lint:prettier": "prettier --write .",
     "prepare": "husky install",
     "commit": "git-cz"
   },

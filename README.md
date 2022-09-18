@@ -16,6 +16,8 @@ Install hooks:
 yarn prepare
 ```
 
+Install `yamllint` and `actionlint`.
+
 ## Commands
 
 Commit changes using conventional changelog:
@@ -28,6 +30,12 @@ Lint files:
 
 ```bash
 yarn lint
+```
+
+Lint `yml` files:
+
+```bash
+make -f MAKEFILE
 ```
 
 **Note**: `release.yml` will run this before versioning and publishing.

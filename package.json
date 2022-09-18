@@ -4,6 +4,7 @@
   "description": "Basic template repository to be reused for a variety of JavaScript-based projects.",
   "main": "index.js",
   "scripts": {
+    "bootstrap:ci": "yarn install --frozen-lockfile --ignore-engines",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "yarn lint:secrets && yarn lint:md && yarn lint:prettier",
     "lint:secrets": "npx secretlint **/*",

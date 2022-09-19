@@ -16,6 +16,12 @@ Install hooks:
 yarn prepare
 ```
 
+Install `make`:
+
+```bash
+[your-package-manager] install make
+```
+
 Install `yamllint` and `actionlint`.
 
 ## Commands
@@ -32,13 +38,13 @@ Lint files:
 yarn lint
 ```
 
-Lint `yml` files:
+**Note**: `release.yml` will run this before versioning and publishing.
+
+Lint `.yml` files:
 
 ```bash
 make -f MAKEFILE
 ```
-
-**Note**: `release.yml` will run this before versioning and publishing.
 
 ## License
 

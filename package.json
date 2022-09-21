@@ -28,6 +28,8 @@
     "husky",
     "secretlint",
     "prettier",
+    "yamllint",
+    "actionlint",
     "lint-staged"
   ],
   "author": "Matthew Waldron",

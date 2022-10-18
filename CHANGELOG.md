@@ -1,9 +1,15 @@
-## [1.0.1](https://github.com/waldronmatt/base-template/compare/v1.0.0...v1.0.1) (2022-09-21)
+## [1.0.2](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.1...v1.0.2) (2022-10-18)
 
 
 ### Bug Fixes
 
-* **package.json:** update keywords ([11f0b50](https://github.com/waldronmatt/base-template/commit/11f0b5097ae2b72b5a7079f47ea50f47bdbf58ed))
+* **global:** rename template to boilerplate ([82bdb7f](https://github.com/waldronmatt/base-boilerplate/commit/82bdb7fb2ef2770e8ea08cd262bd8126309055e2))
+
+## [1.0.1](https://github.com/waldronmatt/base-template/compare/v1.0.0...v1.0.1) (2022-09-21)
+
+### Bug Fixes
+
+- **package.json:** update keywords ([11f0b50](https://github.com/waldronmatt/base-template/commit/11f0b5097ae2b72b5a7079f47ea50f47bdbf58ed))
 
 # 1.0.0 (2022-09-18)
 

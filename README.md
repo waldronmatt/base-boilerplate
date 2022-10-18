@@ -1,6 +1,6 @@
-# Base Template
+# Base Boilerplate
 
-Basic template repository to be reused for a variety of JavaScript-based projects.
+Basic boilerplate repository to be reused for a variety of JavaScript-based projects.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
-  "name": "base-template",
+  "name": "base-boilerplate",
   "private": true,
-  "description": "Basic template repository to be reused for a variety of JavaScript-based projects.",
+  "description": "Basic boilerplate repository to be reused for a variety of JavaScript-based projects.",
   "main": "index.js",
   "scripts": {
     "bootstrap:ci": "yarn install --frozen-lockfile --ignore-engines",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waldronmatt/base-template.git"
+    "url": "git+https://github.com/waldronmatt/base-boilerplate.git"
   },
   "keywords": [
-    "base-template",
+    "template",
     "boilerplate",
     "configurations",
     "markdownlint",
@@ -35,9 +35,9 @@
   "author": "Matthew Waldron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waldronmatt/base-template/issues"
+    "url": "https://github.com/waldronmatt/base-boilerplate/issues"
   },
-  "homepage": "https://github.com/waldronmatt/base-template#readme",
+  "homepage": "https://github.com/waldronmatt/base-boilerplate#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@waldronmatt/commitizen-config": "^1.1.2",

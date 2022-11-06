@@ -1,9 +1,16 @@
-## [1.0.2](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.1...v1.0.2) (2022-10-18)
+## [1.0.3](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.2...v1.0.3) (2022-11-06)
 
 
 ### Bug Fixes
 
-* **global:** rename template to boilerplate ([82bdb7f](https://github.com/waldronmatt/base-boilerplate/commit/82bdb7fb2ef2770e8ea08cd262bd8126309055e2))
+* **.releaserc.json:** upgrade shareable semantic-release-config, update file ref in config ([b302a0f](https://github.com/waldronmatt/base-boilerplate/commit/b302a0fe0257c044a07ace510819981aef5d98d4))
+* **package.json:** remove commitizen-config ([7ab037e](https://github.com/waldronmatt/base-boilerplate/commit/7ab037e2dbf123702d1fbe0d3b7d865727326e18))
+
+## [1.0.2](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.1...v1.0.2) (2022-10-18)
+
+### Bug Fixes
+
+- **global:** rename template to boilerplate ([82bdb7f](https://github.com/waldronmatt/base-boilerplate/commit/82bdb7fb2ef2770e8ea08cd262bd8126309055e2))
 
 ## [1.0.1](https://github.com/waldronmatt/base-template/compare/v1.0.0...v1.0.1) (2022-09-21)
 

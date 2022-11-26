@@ -1,10 +1,16 @@
-## [1.0.3](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.2...v1.0.3) (2022-11-06)
+## [1.0.4](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.3...v1.0.4) (2022-11-26)
 
 
 ### Bug Fixes
 
-* **.releaserc.json:** upgrade shareable semantic-release-config, update file ref in config ([b302a0f](https://github.com/waldronmatt/base-boilerplate/commit/b302a0fe0257c044a07ace510819981aef5d98d4))
-* **package.json:** remove commitizen-config ([7ab037e](https://github.com/waldronmatt/base-boilerplate/commit/7ab037e2dbf123702d1fbe0d3b7d865727326e18))
+* **lint-staged.config.js:** add lint staged config for yml files ([f9592fe](https://github.com/waldronmatt/base-boilerplate/commit/f9592fe58e8b030e3a930c152daadd70f005f41e))
+
+## [1.0.3](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.2...v1.0.3) (2022-11-06)
+
+### Bug Fixes
+
+- **.releaserc.json:** upgrade shareable semantic-release-config, update file ref in config ([b302a0f](https://github.com/waldronmatt/base-boilerplate/commit/b302a0fe0257c044a07ace510819981aef5d98d4))
+- **package.json:** remove commitizen-config ([7ab037e](https://github.com/waldronmatt/base-boilerplate/commit/7ab037e2dbf123702d1fbe0d3b7d865727326e18))
 
 ## [1.0.2](https://github.com/waldronmatt/base-boilerplate/compare/v1.0.1...v1.0.2) (2022-10-18)
 

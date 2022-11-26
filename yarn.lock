@@ -956,6 +956,11 @@
   dependencies:
     "@commitlint/config-conventional" "^17.0.0"
 
+"@waldronmatt/lint-staged-config@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@waldronmatt/lint-staged-config/-/lint-staged-config-2.0.0.tgz#c488d80503d578444321ab38ed491f718d9b381d"
+  integrity sha512-N4CLcrtt6mwYIFUKHHLdhvs+MFGuv2DzCAeZ+Am0Eumwqps+Ki+kYqvAGdEpIG1CVWCz8uOKZw8Y9nkcXQVZbQ==
+
 "@waldronmatt/markdownlint-config@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@waldronmatt/markdownlint-config/-/markdownlint-config-1.0.2.tgz#08e87b67222c55ef556c8185292c3e0fda8384f7"
